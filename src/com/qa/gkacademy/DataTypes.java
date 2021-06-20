@@ -17,7 +17,7 @@ public class DataTypes {
          char c ='$';
          boolean b =true;
 
-         String str ="Kika";
+         String str ="100";
 
 /*        System.out.println(i);
         System.out.println(d);
